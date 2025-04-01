@@ -58,7 +58,7 @@ app.post("/chat", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const response = yield anthropic.messages.create({
         messages: messages,
         model: 'claude-3-5-sonnet-20241022',
-        max_tokens: 11,
+        max_tokens: 2000,
         system: (0, prompts_1.getSystemPrompt)()
     });
     console.log(response);
