@@ -195,26 +195,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋‍♀️ Support
-
-- 📧 Email: support@magicprot.com
-- 💬 Discord: [Join our community](https://discord.gg/magicprot)
-- 🐛 Issues: [GitHub Issues](https://github.com/Samriddhi3901/websiteToWebsite/issues)
-
-## 🌟 Acknowledgments
-
-- [Claude AI by Anthropic](https://www.anthropic.com/) - For powering our AI capabilities
-- [React Team](https://reactjs.org/) - For the amazing frontend framework
-- [Node.js Community](https://nodejs.org/) - For the robust backend runtime
-
----
-
-<div align="center">
-  <strong>Made with ❤️ and AI</strong>
   
   [⭐ Star this repo](https://github.com/Samriddhi3901/websiteToWebsite) if you found it helpful!
 </div>
