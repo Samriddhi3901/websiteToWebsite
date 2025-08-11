@@ -1,4 +1,4 @@
-# ✨ Magic Prot - AI Website Generator
+# ✨ Magic Prompt - AI Website Generator
 
 <div align="center">
   <h3>Transform ideas into fully functional websites with the power of Claude AI</h3>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Magic Prot
+## 🚀 About Magic Prompt
 
 Magic Prot is a revolutionary AI-powered SaaS platform that transforms the complex process of website development into simple conversations. Built with cutting-edge technology, it leverages Claude AI and advanced Large Language Models to generate complete, production-ready websites from natural language descriptions.
 
