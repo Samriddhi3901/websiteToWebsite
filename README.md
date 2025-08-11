@@ -13,7 +13,7 @@
 
 ## 🚀 About Magic Prompt
 
-Magic Prot is a revolutionary AI-powered SaaS platform that transforms the complex process of website development into simple conversations. Built with cutting-edge technology, it leverages Claude AI and advanced Large Language Models to generate complete, production-ready websites from natural language descriptions.
+Magic Prompt is a revolutionary AI-powered SaaS platform that transforms the complex process of website development into simple conversations. Built with cutting-edge technology, it leverages Claude AI and advanced Large Language Models to generate complete, production-ready websites from natural language descriptions.
 
 **From idea to implementation in minutes, not days.**
 
